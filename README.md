@@ -38,17 +38,17 @@ It helps in improving decision-making using data-driven insights.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Power BI  
 - Excel  
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ### Operations Dashboard
-![img](operation.png)
+![img](operations.png)
 
 ### Financial Dashboard
 ![img](finance.png)
