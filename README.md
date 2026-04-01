@@ -61,6 +61,6 @@
 - Predictive analytics  
 - Advanced KPI tracking
 
-  ## Author
-  - K Niharika Rao
+## Author
+- K Niharika Rao
   
