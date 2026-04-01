@@ -60,3 +60,7 @@
 - Real-time hospital data integration  
 - Predictive analytics  
 - Advanced KPI tracking
+
+  ## Author
+  - K Niharika Rao
+  
