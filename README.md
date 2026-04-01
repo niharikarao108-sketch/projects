@@ -1,7 +1,7 @@
 #  Healthcare Operations & Billing Analytics Dashboard
 
 ##  Project Overview
-
+ 
 This project presents a Power BI dashboard analyzing hospital operations, patient demographics, billing trends, and insurance insights.  
 It helps in improving decision-making using data-driven insights.
 
