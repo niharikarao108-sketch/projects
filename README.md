@@ -47,17 +47,7 @@ It helps in improving decision-making using data-driven insights.
 
 ##  Dashboard Preview
 
-### Operations Dashboard
-![img](operations.png)
-
-### Financial Dashboard
-![img](finance.png)
-
-### Quality Dashboard
-![img](Quality.png)
-
-### Insurance Dashboard
-![img](Insurance.png)
+###![img](hospitalDashboard.png)
 
 ---
 ## Key Insights
