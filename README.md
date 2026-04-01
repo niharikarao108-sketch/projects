@@ -17,7 +17,7 @@ It helps in improving decision-making using data-driven insights.
 
 ---
 
-##  Dashboard Sections
+##  Dashboard Sections 
 
 ### 1. Operations Dashboard
 - Patient admissions & discharges  
